@@ -1,7 +1,6 @@
 class Tiger():
     state = 'the king of the forest'
     strength = 'so strong'
-    __speed = 'fast'
 
     def __init__(self,name,age,kind):
         self.name = name
